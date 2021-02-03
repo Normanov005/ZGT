@@ -3,4 +3,5 @@
 "description": "Made in Germany",
 "ticker": "ZEIT",
 "homepage": "https://zeitgeistpool.com"
+"extended": "https://github.com/Normanov005/ZGT/blob/main/poolMetaDataExtended.json"
 }
