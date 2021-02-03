@@ -1,0 +1,32 @@
+{
+   "itn":{
+      "owner":"",
+      "witness":""
+   },
+   "info":{
+      "url_png_icon_64x64":"https://www.zeitgeistpool.com/wp-content/uploads/2020/09/cropped-01-02-1-scaled-1-192x192.jpg",
+      "url_png_logo":"https://www.zeitgeistpool.com/wp-content/uploads/2020/09/Zeitgeist_logo.png",
+      "social":{
+         "twitter_handle":"Zeitgeist",
+         "telegram_handle":"Zeitgeistpool",
+         "facebook_handle":"zeitgeistpool",
+      },
+      "about":{
+         "me":"Zeitgeist Pool is a highly performant and secure stake pool. Always up to date. Keep calm and stake [ZEIT]",
+         "server":"Unsaturated, Single Pool below 32Mio. Secure. Higly available. 24/7 Monitoring and Support!"
+      }
+   },
+   "my-pool-ids":{
+      "0":"cb0e97271899d0378b028f08183d6fde0794e3502d1d2c6bb96c668c",
+´   },
+   "when-satured-then-recommend":{
+      "0":"cb0e97271899d0378b028f08183d6fde0794e3502d1d2c6bb96c668c",
+   },
+   "telegram-admin-handle":{
+      "0":"cardanozeitgeistpool"
+   },
+   "ownership":{
+      "0":"007",
+      "1":"005"
+   }
+}
